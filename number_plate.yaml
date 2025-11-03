@@ -1,0 +1,5 @@
+train: C:/Users/ishit/OneDrive/Desktop/projects/cv project/cv_project_data_preprocessed/images/train
+val:   C:/Users/ishit/OneDrive/Desktop/projects/cv project/cv_project_data_preprocessed/images/val
+
+nc: 1
+names: ['plate']
